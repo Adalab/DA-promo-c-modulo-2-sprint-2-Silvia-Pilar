@@ -458,7 +458,7 @@
 456,Unprovoked,bahamas,Spearfishing,48,Caribbean reef shark,Sep,N,F,Unspecified,457.0,2007.0,48.0
 457,Unprovoked,egypt,Swimming,18 or 20,Oceanic whitetip sharks were in the vicinity,Sep,N,F,Unspecified,458.0,2007.0,18.0
 458,Unprovoked,usa,Surfing,23,3' shark,Sep,N,M,Unspecified,459.0,2007.0,23.0
-459,Unprovoked,usa,Surfing,Teen,9.5' shark?,Sep,N,F,Unspecified,460.0,2007.0,29.639427678292925
+459,Unprovoked,usa,Surfing,Teen,9.5' shark?,Sep,N,F,Unspecified,460.0,2007.0,29.63942767829293
 460,Unprovoked,usa,Snorkeling,14,"Nurse shark, 2' to 3' ",Sep,N,M,Unspecified,461.0,2007.0,14.0
 461,Unprovoked,usa,Jumping,12,"18"" to 24"" shark",Sep,N,F,Unspecified,462.0,2007.0,12.0
 462,Unprovoked,usa,Swimming,58,Possibly a spinner shark,Sep,N,M,Unspecified,463.0,2007.0,58.0
@@ -1500,169 +1500,169 @@
 1498,Provoked,australia,Fishing,21,12' shark,Mar,N,M,Unspecified,1499.0,1997.0,21.0
 1499,Unprovoked,australia,Swimming,12,Bull shark,Nov,Y,M,Bull shark,1500.0,1997.0,12.0
 1500,Unprovoked,india,Standing,35,Identified as C. gangeticus by Dr. J. Fayrer,May,Y,M,Unspecified,1501.0,1997.0,35.0
-1501,Unprovoked,seychelles,a corsair's boat was overturned,,,,Y,F,,1502.0,1997.0,23.53756958824302
-1502,Unprovoked,,Dropped overboard,,,,Y,M,,1503.0,1997.0,23.531723068373108
-1503,Provoked,england,Fishing,,,Sep,Y,M,,1504.0,1997.0,23.525876548503195
-1504,Unprovoked,australia,,,,,Y,F,,1505.0,1997.0,23.520030028633283
-1505,Boat,australia,Fishing,,,May,N,M,,1506.0,1997.0,23.51418350876337
-1506,Unprovoked,,Swimming,,,Jul,Y,M,,1507.0,1997.0,23.508336988893458
-1507,Unprovoked,barbados,Washing himself,,,,Y,M,,1508.0,1997.0,23.502490469023545
-1508,Unprovoked,england,,,Tiger shark?,,Y,M,Tiger shark,1509.0,1997.0,23.49664394915363
-1509,Unprovoked,jamaica,Swimming,,,Dec,Y,M,,1510.0,1997.0,23.490797429283717
-1510,Sea Disaster,martinique,,,,Mar,Y,M,,1511.0,1997.0,23.484950909413804
-1511,Unprovoked,usa,Swimming,,,Aug,Y,M,,1512.0,1997.0,23.479104389543892
-1512,Unprovoked,usa,Surfing,young,,,Y,M,,1513.0,1997.0,23.47325786967398
-1513,Unprovoked,guinea,Murder,,,,Y,M,,1514.0,1997.0,23.467411349804067
-1514,Boat,greenland,,,White sharks,,Y,M,White shark,1515.0,1997.0,23.461564829934154
-1515,Unprovoked,usa,Fishing,,,,Y,M,,1516.0,1997.0,23.455718310064242
-1516,Invalid,france,Bathing,,Description of shark does not ring true,,,M,Unspecified,1517.0,1997.0,23.449871790194326
-1517,Unprovoked,spain,Swimming,,,,Y,M,,1518.0,1997.0,23.444025270324413
-1518,Unprovoked,mediterranean sea,"Fell overboard from a frigate & was swallowed by a shark. The captain fired a gun at the shark, and ""the creature cast the man out of his throat.""",,"""The fish was harpooned, dried, and presented to the sailor, who went round Europe exhibiting it  It was said to be 20 feet long.",,N,M,Unspecified,1519.0,1997.0,23.4381787504545
-1519,Unprovoked,jamaica,Fell overboard,,,,Y,M,,1520.0,1997.0,23.43233223058459
-1520,Unprovoked,usa,Swimming,,,Jul,Y,M,,1521.0,1997.0,23.426485710714676
+1501,Unprovoked,seychelles,a corsair's boat was overturned,,,,Y,F,,1502.0,1997.0,23.53756958824301
+1502,Unprovoked,,Dropped overboard,,,,Y,M,,1503.0,1997.0,23.531723068373097
+1503,Provoked,england,Fishing,,,Sep,Y,M,,1504.0,1997.0,23.525876548503184
+1504,Unprovoked,australia,,,,,Y,F,,1505.0,1997.0,23.520030028633272
+1505,Boat,australia,Fishing,,,May,N,M,,1506.0,1997.0,23.51418350876336
+1506,Unprovoked,,Swimming,,,Jul,Y,M,,1507.0,1997.0,23.508336988893447
+1507,Unprovoked,barbados,Washing himself,,,,Y,M,,1508.0,1997.0,23.50249046902353
+1508,Unprovoked,england,,,Tiger shark?,,Y,M,Tiger shark,1509.0,1997.0,23.49664394915362
+1509,Unprovoked,jamaica,Swimming,,,Dec,Y,M,,1510.0,1997.0,23.490797429283706
+1510,Sea Disaster,martinique,,,,Mar,Y,M,,1511.0,1997.0,23.484950909413794
+1511,Unprovoked,usa,Swimming,,,Aug,Y,M,,1512.0,1997.0,23.47910438954388
+1512,Unprovoked,usa,Surfing,young,,,Y,M,,1513.0,1997.0,23.47325786967397
+1513,Unprovoked,guinea,Murder,,,,Y,M,,1514.0,1997.0,23.467411349804053
+1514,Boat,greenland,,,White sharks,,Y,M,White shark,1515.0,1997.0,23.46156482993414
+1515,Unprovoked,usa,Fishing,,,,Y,M,,1516.0,1997.0,23.455718310064228
+1516,Invalid,france,Bathing,,Description of shark does not ring true,,,M,Unspecified,1517.0,1997.0,23.449871790194315
+1517,Unprovoked,spain,Swimming,,,,Y,M,,1518.0,1997.0,23.444025270324403
+1518,Unprovoked,mediterranean sea,"Fell overboard from a frigate & was swallowed by a shark. The captain fired a gun at the shark, and ""the creature cast the man out of his throat.""",,"""The fish was harpooned, dried, and presented to the sailor, who went round Europe exhibiting it  It was said to be 20 feet long.",,N,M,Unspecified,1519.0,1997.0,23.43817875045449
+1519,Unprovoked,jamaica,Fell overboard,,,,Y,M,,1520.0,1997.0,23.432332230584578
+1520,Unprovoked,usa,Swimming,,,Jul,Y,M,,1521.0,1997.0,23.426485710714665
 1521,Unprovoked,cuba,Swimming,14,,,N,M,,1522.0,1997.0,14.0
-1522,Unprovoked,sweden,,,,,,M,,1523.0,1997.0,23.41479267097485
-1523,Unprovoked,panama,Pearl diving,,,,Y,M,,1524.0,1997.0,23.408946151104935
-1524,Unprovoked,,Swimming,,,Dec,Y,M,,1525.0,1997.0,23.403099631235023
-1525,Unprovoked,italy,Swimming,,,,Y,M,,1526.0,1997.0,23.39725311136511
-1526,Invalid,iceland,,,Shark involvement prior to death unconfirmed,,,M,Unspecified,1527.0,1997.0,23.391406591495198
-1527,Unprovoked,roatan,,,,,,M,,1528.0,1997.0,23.385560071625285
-1528,Unprovoked,italy,Swimming,,"White shark, 1600-lb female ",,Y,M,White shark,1529.0,1997.0,23.379713551755373
+1522,Unprovoked,sweden,,,,,,M,,1523.0,1997.0,23.414792670974837
+1523,Unprovoked,panama,Pearl diving,,,,Y,M,,1524.0,1997.0,23.408946151104924
+1524,Unprovoked,,Swimming,,,Dec,Y,M,,1525.0,1997.0,23.403099631235012
+1525,Unprovoked,italy,Swimming,,,,Y,M,,1526.0,1997.0,23.3972531113651
+1526,Invalid,iceland,,,Shark involvement prior to death unconfirmed,,,M,Unspecified,1527.0,1997.0,23.391406591495187
+1527,Unprovoked,roatan,,,,,,M,,1528.0,1997.0,23.38556007162527
+1528,Unprovoked,italy,Swimming,,"White shark, 1600-lb female ",,Y,M,White shark,1529.0,1997.0,23.37971355175536
 1529,Unprovoked,barbados,Swimming,19,,Mar,N,M,,1530.0,1997.0,19.0
-1530,Unprovoked,france,,,,,Y,M,,1531.0,1997.0,23.368020512015544
-1531,Unprovoked,france,Bathing,,White shark,,N,M,White shark,1532.0,1997.0,23.36217399214563
-1532,Unprovoked,barbados,Bathing,,,,Y,M,,1533.0,1997.0,23.35632747227572
-1533,Invalid,guinea,Went overboard,,Questionable,,,M,Unspecified,1534.0,1997.0,23.350480952405807
-1534,Unprovoked,,,,,,,M,,1535.0,1997.0,23.344634432535894
-1535,Unprovoked,india,Wading,,,,,M,,1536.0,1997.0,23.338787912665982
-1536,Unprovoked,india,,,,,,M,,1537.0,1997.0,23.33294139279607
-1537,Unprovoked,usa,Swimming ,,,,Y,M,,1538.0,1997.0,23.327094872926153
-1538,Unprovoked,india,Ship lay at anchor & man was working on its rudder,,,,,M,,1539.0,1997.0,23.32124835305624
-1539,Unprovoked,between portugal & india,Man fell overboard from ship. Those on board threw a rope to him with a wooden block & were pulling him to the ship,,,,Y,M,,1540.0,1997.0,23.31540183318633
-1540,Unprovoked,,Swimming,,,,,M,,1541.0,1997.0,23.309555313316416
-1541,Unprovoked,france,,,Possibly white sharks,,,M,Unspecified,1542.0,1997.0,23.303708793446503
-1542,Unprovoked,venezuela,Pearl diving,,,,Y,M,,1543.0,1997.0,23.29786227357659
-1543,Unprovoked,mexico,,,,,N,M,,1544.0,1997.0,23.29201575370668
-1544,Unprovoked,,Sponge diving,,,,Y,M,,1545.0,1997.0,23.286169233836766
-1545,Unprovoked,australia,,,,,N,M,,1546.0,1997.0,23.28032271396685
-1546,Unprovoked,,Ascending from a dive,,,,Y,M,,1547.0,1997.0,23.274476194096938
-1547,Unprovoked,greece,Washing his pig in preparation for a religious ceremony,,,,Y,M,,1548.0,1997.0,23.268629674227025
-1548,Sea Disaster,greece,Shipwrecked Persian Fleet,,,,Y,M,,1549.0,1997.0,23.262783154357113
-1549,Sea Disaster,italy,Shipwreck,,,,Y,M,,1550.0,1997.0,23.2569366344872
-1550,Unprovoked,canada,Fishing,,,,N,M,,1551.0,1997.0,23.251090114617288
-1551,Unprovoked,kenya,Diving,,,,N,M,,1552.0,1997.0,23.245243594747375
-1552,Unprovoked,kenya,Diving,,,,Y,M,,1553.0,1997.0,23.23939707487746
+1530,Unprovoked,france,,,,,Y,M,,1531.0,1997.0,23.368020512015534
+1531,Unprovoked,france,Bathing,,White shark,,N,M,White shark,1532.0,1997.0,23.36217399214562
+1532,Unprovoked,barbados,Bathing,,,,Y,M,,1533.0,1997.0,23.35632747227571
+1533,Invalid,guinea,Went overboard,,Questionable,,,M,Unspecified,1534.0,1997.0,23.350480952405796
+1534,Unprovoked,,,,,,,M,,1535.0,1997.0,23.344634432535884
+1535,Unprovoked,india,Wading,,,,,M,,1536.0,1997.0,23.33878791266597
+1536,Unprovoked,india,,,,,,M,,1537.0,1997.0,23.332941392796055
+1537,Unprovoked,usa,Swimming ,,,,Y,M,,1538.0,1997.0,23.327094872926143
+1538,Unprovoked,india,Ship lay at anchor & man was working on its rudder,,,,,M,,1539.0,1997.0,23.32124835305623
+1539,Unprovoked,between portugal & india,Man fell overboard from ship. Those on board threw a rope to him with a wooden block & were pulling him to the ship,,,,Y,M,,1540.0,1997.0,23.315401833186318
+1540,Unprovoked,,Swimming,,,,,M,,1541.0,1997.0,23.309555313316405
+1541,Unprovoked,france,,,Possibly white sharks,,,M,Unspecified,1542.0,1997.0,23.30370879344649
+1542,Unprovoked,venezuela,Pearl diving,,,,Y,M,,1543.0,1997.0,23.297862273576577
+1543,Unprovoked,mexico,,,,,N,M,,1544.0,1997.0,23.292015753706664
+1544,Unprovoked,,Sponge diving,,,,Y,M,,1545.0,1997.0,23.286169233836752
+1545,Unprovoked,australia,,,,,N,M,,1546.0,1997.0,23.28032271396684
+1546,Unprovoked,,Ascending from a dive,,,,Y,M,,1547.0,1997.0,23.274476194096927
+1547,Unprovoked,greece,Washing his pig in preparation for a religious ceremony,,,,Y,M,,1548.0,1997.0,23.268629674227014
+1548,Sea Disaster,greece,Shipwrecked Persian Fleet,,,,Y,M,,1549.0,1997.0,23.262783154357102
+1549,Sea Disaster,italy,Shipwreck,,,,Y,M,,1550.0,1997.0,23.25693663448719
+1550,Unprovoked,canada,Fishing,,,,N,M,,1551.0,1997.0,23.251090114617273
+1551,Unprovoked,kenya,Diving,,,,N,M,,1552.0,1997.0,23.24524359474736
+1552,Unprovoked,kenya,Diving,,,,Y,M,,1553.0,1997.0,23.23939707487745
 1553,Unprovoked,panama,Swimming/,20,,,Y,M,,1554.0,1997.0,20.0
-1554,Unprovoked,uruguay,Swimming,,,,N,M,,1555.0,1997.0,23.227704035137634
-1555,Unprovoked,uruguay,Swimming,,,,Y,M,,1556.0,1997.0,23.221857515267722
-1556,Unprovoked,usa,Swimming,,,,N,M,,1557.0,1997.0,23.21601099539781
-1557,Unprovoked,papua new guinea,Swimming to canoe,,,,Y,M,,1558.0,1997.0,23.210164475527897
+1554,Unprovoked,uruguay,Swimming,,,,N,M,,1555.0,1997.0,23.227704035137624
+1555,Unprovoked,uruguay,Swimming,,,,Y,M,,1556.0,1997.0,23.221857515267708
+1556,Unprovoked,usa,Swimming,,,,N,M,,1557.0,1997.0,23.216010995397795
+1557,Unprovoked,papua new guinea,Swimming to canoe,,,,Y,M,,1558.0,1997.0,23.210164475527883
 1558,Unprovoked,australia,,15,,,N,F,,1559.0,1997.0,15.0
-1559,Unprovoked,australia,Fell into the water,,,,Y,M,,1560.0,1997.0,23.19847143578807
-1560,Unprovoked,usa,Diving,," Galapagos shark, 6'",,N,M,Unspecified,1561.0,1997.0,23.192624915918156
-1561,Unprovoked,bermuda,,,,,Y,M,,1562.0,1997.0,23.186778396048243
-1562,Unprovoked,greece,Swimming,,,,Y,F,,1563.0,1997.0,23.18093187617833
-1563,Unprovoked,usa,Fishing for basking sharks,,Basking shark,,Y,M,Unspecified,1564.0,1997.0,23.17508535630842
-1564,Provoked,india,,,,,N,M,,1565.0,1997.0,23.169238836438506
-1565,Unprovoked,lebanon,Collecting fish ,,,,N,M,,1566.0,1997.0,23.163392316568594
-1566,Unprovoked,spain,Skin diving,,,,N,M,,1567.0,1997.0,23.157545796698678
-1567,Unprovoked,sudan,Snorkeling,,,,N,F,,1568.0,1997.0,23.151699276828765
-1568,Provoked,,,,,,N,M,,1569.0,1997.0,23.145852756958853
+1559,Unprovoked,australia,Fell into the water,,,,Y,M,,1560.0,1997.0,23.198471435788058
+1560,Unprovoked,usa,Diving,," Galapagos shark, 6'",,N,M,Unspecified,1561.0,1997.0,23.192624915918145
+1561,Unprovoked,bermuda,,,,,Y,M,,1562.0,1997.0,23.186778396048233
+1562,Unprovoked,greece,Swimming,,,,Y,F,,1563.0,1997.0,23.18093187617832
+1563,Unprovoked,usa,Fishing for basking sharks,,Basking shark,,Y,M,Unspecified,1564.0,1997.0,23.175085356308408
+1564,Provoked,india,,,,,N,M,,1565.0,1997.0,23.169238836438492
+1565,Unprovoked,lebanon,Collecting fish ,,,,N,M,,1566.0,1997.0,23.16339231656858
+1566,Unprovoked,spain,Skin diving,,,,N,M,,1567.0,1997.0,23.157545796698667
+1567,Unprovoked,sudan,Snorkeling,,,,N,F,,1568.0,1997.0,23.151699276828754
+1568,Provoked,,,,,,N,M,,1569.0,1997.0,23.145852756958842
 1569,Unprovoked,usa,Shark tagging,21,"Blacktip shark, 5'",,N,F,Unspecified,1570.0,1997.0,21.0
-1570,Unprovoked,usa,Surfing,,,,N,M,,1571.0,1997.0,23.134159717219028
-1571,Unprovoked,djibouti,A dhow capsized,,,,Y,M,,1572.0,1997.0,23.128313197349115
-1572,Unprovoked,libya,Sponge diving,,,,Y,M,,1573.0,1997.0,23.122466677479203
-1573,Unprovoked,australia,Net-fishing,,,,N,M,,1574.0,1997.0,23.116620157609287
-1574,Unprovoked,new zealand,,,,,Y,M,,1575.0,1997.0,23.110773637739374
-1575,Unprovoked,,Netting shrimp,,,,N,F,,1576.0,1997.0,23.10492711786946
-1576,Unprovoked,vietnam,Bathing,,,,N,M,,1577.0,1997.0,23.09908059799955
-1577,Unprovoked,sri lanka,Fishing?,,,,N,M,,1578.0,1997.0,23.093234078129637
-1578,Unprovoked,venezuela,Spearfishing ,,said to involve 2.5 m hammerhead sharks,,Y,M,Unspecified,1579.0,1997.0,23.087387558259724
-1579,Unprovoked,usa,Wade-fishing,,,,N,M,,1580.0,1997.0,23.081541038389812
-1580,Unprovoked,greece,Free diving for sponges,,,,Y,M,,1581.0,1997.0,23.0756945185199
-1581,Boat,mozambique,Fishing,,Whale shark,,N,M,Unspecified,1582.0,1997.0,23.069847998649983
-1582,Unprovoked,south africa,Swimming,,,,Y,M,,1583.0,1997.0,23.06400147878007
-1583,Unprovoked,australia,Helmet diving,,Tiger shark,,N,M,Tiger shark,1584.0,1997.0,23.05815495891016
-1584,Unprovoked,bahrein,Pearl diving,,Tiger shark,,Y,M,Tiger shark,1585.0,1997.0,23.052308439040246
-1585,Unprovoked,bahamas,Spearfishing ,,1.8 m [6'] shark,,N,M,Unspecified,1586.0,1997.0,23.046461919170333
-1586,Unprovoked,usa,Kitesurfing,,,,N,M,,1587.0,1997.0,23.04061539930042
-1587,Unprovoked,reunion,yachtsman in a zodiac,,,,N,M,,1588.0,1997.0,23.03476887943051
-1588,Unprovoked,solomon islands,Diving,,,,N,M,,1589.0,1997.0,23.028922359560593
-1589,Unprovoked,korea,Diving,,,,Y,F,,1590.0,1997.0,23.02307583969068
-1590,Unprovoked,french polynesia,Fishing,,,,N,M,,1591.0,1997.0,23.017229319820768
-1591,Unprovoked,sudan,Diving,,Silvertip shark,,N,M,Unspecified,1592.0,1997.0,23.011382799950855
-1592,Unprovoked,vanuatu,,,,,Y,F,,1593.0,1997.0,23.005536280080943
-1593,Provoked,vanuatu,Attempting to drive shark from area,,A large hammerhead shark,,N,M,Unspecified,1594.0,1997.0,22.99968976021103
-1594,Unprovoked,iran,,,Bull shark,,N,M,Bull shark,1595.0,1997.0,22.993843240341118
+1570,Unprovoked,usa,Surfing,,,,N,M,,1571.0,1997.0,23.134159717219013
+1571,Unprovoked,djibouti,A dhow capsized,,,,Y,M,,1572.0,1997.0,23.1283131973491
+1572,Unprovoked,libya,Sponge diving,,,,Y,M,,1573.0,1997.0,23.12246667747919
+1573,Unprovoked,australia,Net-fishing,,,,N,M,,1574.0,1997.0,23.116620157609276
+1574,Unprovoked,new zealand,,,,,Y,M,,1575.0,1997.0,23.110773637739364
+1575,Unprovoked,,Netting shrimp,,,,N,F,,1576.0,1997.0,23.10492711786945
+1576,Unprovoked,vietnam,Bathing,,,,N,M,,1577.0,1997.0,23.09908059799954
+1577,Unprovoked,sri lanka,Fishing?,,,,N,M,,1578.0,1997.0,23.093234078129626
+1578,Unprovoked,venezuela,Spearfishing ,,said to involve 2.5 m hammerhead sharks,,Y,M,Unspecified,1579.0,1997.0,23.08738755825971
+1579,Unprovoked,usa,Wade-fishing,,,,N,M,,1580.0,1997.0,23.081541038389798
+1580,Unprovoked,greece,Free diving for sponges,,,,Y,M,,1581.0,1997.0,23.075694518519885
+1581,Boat,mozambique,Fishing,,Whale shark,,N,M,Unspecified,1582.0,1997.0,23.069847998649973
+1582,Unprovoked,south africa,Swimming,,,,Y,M,,1583.0,1997.0,23.06400147878006
+1583,Unprovoked,australia,Helmet diving,,Tiger shark,,N,M,Tiger shark,1584.0,1997.0,23.058154958910144
+1584,Unprovoked,bahrein,Pearl diving,,Tiger shark,,Y,M,Tiger shark,1585.0,1997.0,23.05230843904023
+1585,Unprovoked,bahamas,Spearfishing ,,1.8 m [6'] shark,,N,M,Unspecified,1586.0,1997.0,23.04646191917032
+1586,Unprovoked,usa,Kitesurfing,,,,N,M,,1587.0,1997.0,23.040615399300407
+1587,Unprovoked,reunion,yachtsman in a zodiac,,,,N,M,,1588.0,1997.0,23.034768879430494
+1588,Unprovoked,solomon islands,Diving,,,,N,M,,1589.0,1997.0,23.028922359560582
+1589,Unprovoked,korea,Diving,,,,Y,F,,1590.0,1997.0,23.02307583969067
+1590,Unprovoked,french polynesia,Fishing,,,,N,M,,1591.0,1997.0,23.017229319820757
+1591,Unprovoked,sudan,Diving,,Silvertip shark,,N,M,Unspecified,1592.0,1997.0,23.011382799950844
+1592,Unprovoked,vanuatu,,,,,Y,F,,1593.0,1997.0,23.00553628008093
+1593,Provoked,vanuatu,Attempting to drive shark from area,,A large hammerhead shark,,N,M,Unspecified,1594.0,1997.0,22.999689760211016
+1594,Unprovoked,iran,,,Bull shark,,N,M,Bull shark,1595.0,1997.0,22.993843240341103
 1595,Provoked,usa,Skin diving. Grabbed shark's tail; shark turned & grabbed diver's ankle & began towing him to deep water,19,"Nurse shark, 2.1 m [7'] ",,N,M,Unspecified,1596.0,1997.0,19.0
-1596,Invalid,papua new guinea,Scuba diving,,Questionable,,Y,M,Unspecified,1597.0,1997.0,22.98215020060129
-1597,Unprovoked,red sea?,Free diving,,,,N,F,,1598.0,1997.0,22.976303680731377
-1598,Unprovoked,south africa,Crossing river on a raft,,,,Y,M,,1599.0,1997.0,22.970457160861464
-1599,Unprovoked,usa,"Free diving, collecting sand dollars",,"Shovelnose guitarfish, adult male ",,N,M,Unspecified,1600.0,1997.0,22.964610640991552
-1600,Invalid,usa,Diving,,Invalid,,,M,Unspecified,1602.0,1997.0,22.952917601251727
-1601,Unprovoked,usa,Canoeing,,,,Y,M,,1603.0,1997.0,22.94707108138181
-1602,Unprovoked,mediterranean sea,,,,,Y,M,,1604.0,1997.0,22.9412245615119
-1603,Unprovoked,australia,Diving for trochus,,0.9 m [3'] shark,,N,M,Unspecified,1605.0,1997.0,22.935378041641986
-1604,Unprovoked,australia,Pearl diving,,,,N,M,,1606.0,1997.0,22.929531521772073
-1605,Unprovoked,singapore,Swimming,,,,N,M,,1607.0,1997.0,22.92368500190216
+1596,Invalid,papua new guinea,Scuba diving,,Questionable,,Y,M,Unspecified,1597.0,1997.0,22.98215020060128
+1597,Unprovoked,red sea?,Free diving,,,,N,F,,1598.0,1997.0,22.976303680731363
+1598,Unprovoked,south africa,Crossing river on a raft,,,,Y,M,,1599.0,1997.0,22.97045716086145
+1599,Unprovoked,usa,"Free diving, collecting sand dollars",,"Shovelnose guitarfish, adult male ",,N,M,Unspecified,1600.0,1997.0,22.964610640991538
+1600,Invalid,usa,Diving,,Invalid,,,M,Unspecified,1602.0,1997.0,22.952917601251713
+1601,Unprovoked,usa,Canoeing,,,,Y,M,,1603.0,1997.0,22.9470710813818
+1602,Unprovoked,mediterranean sea,,,,,Y,M,,1604.0,1997.0,22.941224561511888
+1603,Unprovoked,australia,Diving for trochus,,0.9 m [3'] shark,,N,M,Unspecified,1605.0,1997.0,22.935378041641975
+1604,Unprovoked,australia,Pearl diving,,,,N,M,,1606.0,1997.0,22.929531521772063
+1605,Unprovoked,singapore,Swimming,,,,N,M,,1607.0,1997.0,22.923685001902147
 1606,Unprovoked,fiji,Spearfishing ,27,1.8 m [6'] shark,,N,M,Unspecified,1608.0,1997.0,27.0
 1607,Unprovoked,mozambique,Skindiving,36,"""A pack of sharks""",,N,M,Unspecified,1609.0,1997.0,36.0
-1608,Unprovoked,seychelles,Swimming from capsized pirogue,,Tiger shark,,Y,M,Tiger shark,1610.0,1997.0,22.90614544229242
+1608,Unprovoked,seychelles,Swimming from capsized pirogue,,Tiger shark,,Y,M,Tiger shark,1610.0,1997.0,22.90614544229241
 1609,Unprovoked,iraq,Fishing from a small boat & put his hand in the water while holding a dead fish,25,,,N,M,,1611.0,1997.0,25.0
 1610,Unprovoked,iraq,Swimming naked near a date palm where many dates fell into the water,6,Bull shark,,N,M,Bull shark,1612.0,1997.0,6.0
 1611,Unprovoked,iraq,Swimming in section of river used for washing clothes & cooking utensils,16,Bull shark,,N,M,Bull shark,1613.0,1997.0,16.0
-1612,Unprovoked,bahamas,,,"White shark, 7' to 8'",,N,M,White shark,1614.0,1997.0,22.88275936281277
-1613,Unprovoked,usa,,,"White shark, 1,900-lb ",,N,F,White shark,1615.0,1997.0,22.876912842942858
-1614,Unprovoked,bermuda,Spearfishing ,,,,N,M,,1616.0,1997.0,22.871066323072945
-1615,Unprovoked,fiji,Swimming with fish attached to  belt,,,,N,F,,1617.0,1997.0,22.865219803203033
-1616,Unprovoked,madagascar,Bathing,,,,Y,M,,1618.0,1997.0,22.859373283333117
-1617,Unprovoked,usa,Standing,,,,N,M,,1619.0,1997.0,22.853526763463204
-1618,Provoked,bahamas,Testing movie camera in full diving dress,,"Nurse shark, 2.1 m [7']",,N,M,Unspecified,1620.0,1997.0,22.84768024359329
-1619,Unprovoked,indonesia,Swimming near anchored ship,,,,Y,M,,1621.0,1997.0,22.84183372372338
-1620,Unprovoked,india,,,,,Y,M,,1622.0,1997.0,22.835987203853467
-1621,Unprovoked,nicaragua,Lashing logs together when he fell into the water,,"Bull shark caught, leg recovered & buried beside the man's body",,Y,M,Bull shark,1623.0,1997.0,22.830140683983554
+1612,Unprovoked,bahamas,,,"White shark, 7' to 8'",,N,M,White shark,1614.0,1997.0,22.882759362812756
+1613,Unprovoked,usa,,,"White shark, 1,900-lb ",,N,F,White shark,1615.0,1997.0,22.876912842942843
+1614,Unprovoked,bermuda,Spearfishing ,,,,N,M,,1616.0,1997.0,22.87106632307293
+1615,Unprovoked,fiji,Swimming with fish attached to  belt,,,,N,F,,1617.0,1997.0,22.86521980320302
+1616,Unprovoked,madagascar,Bathing,,,,Y,M,,1618.0,1997.0,22.859373283333106
+1617,Unprovoked,usa,Standing,,,,N,M,,1619.0,1997.0,22.853526763463194
+1618,Provoked,bahamas,Testing movie camera in full diving dress,,"Nurse shark, 2.1 m [7']",,N,M,Unspecified,1620.0,1997.0,22.84768024359328
+1619,Unprovoked,indonesia,Swimming near anchored ship,,,,Y,M,,1621.0,1997.0,22.841833723723365
+1620,Unprovoked,india,,,,,Y,M,,1622.0,1997.0,22.835987203853453
+1621,Unprovoked,nicaragua,Lashing logs together when he fell into the water,,"Bull shark caught, leg recovered & buried beside the man's body",,Y,M,Bull shark,1623.0,1997.0,22.83014068398354
 1622,Provoked,cuba,"Shark fishing, knocked overboard",50,,,Y,M,,1624.0,1997.0,50.0
-1623,Unprovoked,marshall islands,Swimming,,,,N,M,,1625.0,1997.0,22.818447644243726
-1624,Unprovoked,kiribati,Diving,,,,N,M,,1626.0,1997.0,22.812601124373813
-1625,Unprovoked,north pacific ocean,"Fishing, wading with string of fish",,,,N,M,,1627.0,1997.0,22.8067546045039
-1626,Unprovoked,kiribati,,,,,Y,M,,1628.0,1997.0,22.80090808463399
-1627,Sea Disaster,,A group of survivors on a raft for 17-days,,1.2 m [4'] shark,,Y,M,Unspecified,1629.0,1997.0,22.795061564764076
-1628,Unprovoked,solomon islands,Floating on his back,,,,N,M,,1630.0,1997.0,22.789215044894163
-1629,Unprovoked,australia,Free diving,,,,N,M,,1631.0,1997.0,22.78336852502425
-1630,Unprovoked,iran,Fishing in ankle-deep water,,,,Y,M,,1632.0,1997.0,22.777522005154335
-1631,Unprovoked,iran,,,,,Y,M,,1633.0,1997.0,22.771675485284423
-1632,Unprovoked,iran,"Standing, washing rear wheels of his ambulance in ankle-deep water",,,,Y,M,,1634.0,1997.0,22.76582896541451
+1623,Unprovoked,marshall islands,Swimming,,,,N,M,,1625.0,1997.0,22.818447644243715
+1624,Unprovoked,kiribati,Diving,,,,N,M,,1626.0,1997.0,22.8126011243738
+1625,Unprovoked,north pacific ocean,"Fishing, wading with string of fish",,,,N,M,,1627.0,1997.0,22.806754604503887
+1626,Unprovoked,kiribati,,,,,Y,M,,1628.0,1997.0,22.800908084633974
+1627,Sea Disaster,,A group of survivors on a raft for 17-days,,1.2 m [4'] shark,,Y,M,Unspecified,1629.0,1997.0,22.79506156476406
+1628,Unprovoked,solomon islands,Floating on his back,,,,N,M,,1630.0,1997.0,22.78921504489415
+1629,Unprovoked,australia,Free diving,,,,N,M,,1631.0,1997.0,22.783368525024237
+1630,Unprovoked,iran,Fishing in ankle-deep water,,,,Y,M,,1632.0,1997.0,22.777522005154324
+1631,Unprovoked,iran,,,,,Y,M,,1633.0,1997.0,22.771675485284412
+1632,Unprovoked,iran,"Standing, washing rear wheels of his ambulance in ankle-deep water",,,,Y,M,,1634.0,1997.0,22.7658289654145
 1633,Unprovoked,iraq,Swimming,13 or 14,Bull shark,,Y,M,Bull shark,1635.0,1997.0,13.0
-1634,Unprovoked,saudi arabia,Diving,,"""a black-tipped shark""",,Y,M,Unspecified,1636.0,1997.0,22.754135925674685
-1635,Unprovoked,saudi arabia,Diving,,6' shark,,N,M,Unspecified,1637.0,1997.0,22.748289405804773
-1636,Unprovoked,saudi arabia,Diving,,,,N,M,,1638.0,1997.0,22.74244288593486
-1637,Sea Disaster,pacific ocean,,,,,Y,M,,1639.0,1997.0,22.736596366064944
-1638,Provoked,burma,Carrying a supposedly dead shark by its mouth,,,,N,M,,1640.0,1997.0,22.73074984619503
-1639,Sea Disaster,papua new guinea,Spent 8 days in dinghy,,,,N,M,,1641.0,1997.0,22.72490332632512
-1640,Sea Disaster,papua new guinea,"Aircraft ditched in the sea, swimming ashore",,,,N,M,,1642.0,1997.0,22.719056806455207
-1641,Unprovoked,burma,Bathing,,,,Y,M,,1643.0,1997.0,22.713210286585294
-1642,Boat,italy,Wooden fishing boat,,White shark,,N,M,White shark,1644.0,1997.0,22.707363766715382
-1643,Unprovoked,greece,Sponge diving,,,,N,M,,1645.0,1997.0,22.70151724684547
+1634,Unprovoked,saudi arabia,Diving,,"""a black-tipped shark""",,Y,M,Unspecified,1636.0,1997.0,22.75413592567467
+1635,Unprovoked,saudi arabia,Diving,,6' shark,,N,M,Unspecified,1637.0,1997.0,22.74828940580476
+1636,Unprovoked,saudi arabia,Diving,,,,N,M,,1638.0,1997.0,22.742442885934846
+1637,Sea Disaster,pacific ocean,,,,,Y,M,,1639.0,1997.0,22.736596366064934
+1638,Provoked,burma,Carrying a supposedly dead shark by its mouth,,,,N,M,,1640.0,1997.0,22.730749846195017
+1639,Sea Disaster,papua new guinea,Spent 8 days in dinghy,,,,N,M,,1641.0,1997.0,22.724903326325105
+1640,Sea Disaster,papua new guinea,"Aircraft ditched in the sea, swimming ashore",,,,N,M,,1642.0,1997.0,22.719056806455193
+1641,Unprovoked,burma,Bathing,,,,Y,M,,1643.0,1997.0,22.71321028658528
+1642,Boat,italy,Wooden fishing boat,,White shark,,N,M,White shark,1644.0,1997.0,22.707363766715368
+1643,Unprovoked,greece,Sponge diving,,,,N,M,,1645.0,1997.0,22.701517246845455
 1644,Unprovoked,belize,Standing,16,12' tiger shark,,Y,M,Unspecified,1646.0,1997.0,16.0
-1645,Unprovoked,australia,,,,,,M,,1647.0,1997.0,22.68982420710564
-1646,Unprovoked,reunion,Swimming,,,,Y,M,,1648.0,1997.0,22.68397768723573
-1647,Unprovoked,south africa,Wading,,,,N,F,,1649.0,1997.0,22.678131167365816
-1648,Unprovoked,south africa,Swimming in pool formed by construction of a wharf,,,,Y,M,,1651.0,1997.0,22.66643812762599
-1649,Unprovoked,australia,,,,,Y,M,,1652.0,1997.0,22.66059160775608
-1650,Unprovoked,usa,Fishing,,,,N,M,,1653.0,1997.0,22.654745087886166
-1651,Unprovoked,vietnam,Swimming around anchored ship,,,,N,M,,1654.0,1997.0,22.64889856801625
-1652,Unprovoked,south africa,Crew swimming alongside their anchored ship,,,,Y,M,,1655.0,1997.0,22.643052048146338
-1653,Unprovoked,south africa,4 men were bathing,,,,Y,M,,1656.0,1997.0,22.637205528276425
-1654,Unprovoked,fiji,Wreck of  large double sailing canoe,,,,Y,M,,1657.0,1997.0,22.631359008406513
-1655,Unprovoked,south africa,Fishing,,,,Y,M,,1659.0,1997.0,22.619665968666688
-1656,Unprovoked,south africa,Wading,,,,Y,M,,1660.0,1997.0,22.613819448796775
-1657,Unprovoked,asia?,Swimming,,,,N,M,,1661.0,1997.0,22.60797292892686
-1658,Unprovoked,usa,,,,,N,F,,1662.0,1997.0,22.602126409056947
-1659,Unprovoked,australia,Fishing,,Blue pointer,,Y,M,Unspecified,1663.0,1997.0,22.596279889187034
-1660,Unprovoked,australia,Fishing,,Blue pointers,,Y,M,Unspecified,1665.0,1997.0,22.58458684944721
-1661,Unprovoked,australia,Swimming,,Said to involve a grey nurse shark that leapt out of the water and  seized the boy but species identification is questionable,,Y,M,Unspecified,1666.0,1997.0,22.578740329577297
-1662,Unprovoked,australia,Diving,,,,Y,M,,1667.0,1997.0,22.572893809707384
-1663,Unprovoked,australia,Pearl diving,,,,Y,M,,1668.0,1997.0,22.56704728983747
-1664,Unprovoked,usa,Swimming,,,,Y,M,,1669.0,1997.0,22.561200769967556
-1665,Unprovoked,panama,,,,,Y,M,,1670.0,1997.0,22.555354250097643
+1645,Unprovoked,australia,,,,,,M,,1647.0,1997.0,22.68982420710563
+1646,Unprovoked,reunion,Swimming,,,,Y,M,,1648.0,1997.0,22.683977687235718
+1647,Unprovoked,south africa,Wading,,,,N,F,,1649.0,1997.0,22.6781311673658
+1648,Unprovoked,south africa,Swimming in pool formed by construction of a wharf,,,,Y,M,,1651.0,1997.0,22.666438127625977
+1649,Unprovoked,australia,,,,,Y,M,,1652.0,1997.0,22.660591607756064
+1650,Unprovoked,usa,Fishing,,,,N,M,,1653.0,1997.0,22.654745087886152
+1651,Unprovoked,vietnam,Swimming around anchored ship,,,,N,M,,1654.0,1997.0,22.648898568016236
+1652,Unprovoked,south africa,Crew swimming alongside their anchored ship,,,,Y,M,,1655.0,1997.0,22.643052048146323
+1653,Unprovoked,south africa,4 men were bathing,,,,Y,M,,1656.0,1997.0,22.63720552827641
+1654,Unprovoked,fiji,Wreck of  large double sailing canoe,,,,Y,M,,1657.0,1997.0,22.6313590084065
+1655,Unprovoked,south africa,Fishing,,,,Y,M,,1659.0,1997.0,22.619665968666673
+1656,Unprovoked,south africa,Wading,,,,Y,M,,1660.0,1997.0,22.61381944879676
+1657,Unprovoked,asia?,Swimming,,,,N,M,,1661.0,1997.0,22.60797292892685
+1658,Unprovoked,usa,,,,,N,F,,1662.0,1997.0,22.602126409056936
+1659,Unprovoked,australia,Fishing,,Blue pointer,,Y,M,Unspecified,1663.0,1997.0,22.59627988918702
+1660,Unprovoked,australia,Fishing,,Blue pointers,,Y,M,Unspecified,1665.0,1997.0,22.584586849447195
+1661,Unprovoked,australia,Swimming,,Said to involve a grey nurse shark that leapt out of the water and  seized the boy but species identification is questionable,,Y,M,Unspecified,1666.0,1997.0,22.578740329577283
+1662,Unprovoked,australia,Diving,,,,Y,M,,1667.0,1997.0,22.57289380970737
+1663,Unprovoked,australia,Pearl diving,,,,Y,M,,1668.0,1997.0,22.567047289837454
+1664,Unprovoked,usa,Swimming,,,,Y,M,,1669.0,1997.0,22.56120076996754
+1665,Unprovoked,panama,,,,,Y,M,,1670.0,1997.0,22.55535425009763
 1666,Unprovoked,ceylon (sri lanka),Swimming,15,,,Y,M,,1671.0,1997.0,15.0
